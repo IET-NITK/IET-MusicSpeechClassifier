@@ -1,6 +1,6 @@
 # IET-MusicSpeechClassifier
-This repository contains various models with the ability to classify audio files into music and speech.
-Dataset used: "http://marsyas.info/downloads/datasets.html".
+This repository contains various models with the ability to classify audio files into music and speech. <br />
+Dataset used: "http://marsyas.info/downloads/datasets.html". <br />
 Research Paper Referred: "https://link.springer.com/article/10.1155/2009/239892".
 
 ### Features extracted: 
